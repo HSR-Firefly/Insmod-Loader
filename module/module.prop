@@ -1,0 +1,6 @@
+id=insmod-loader
+name=Insmod Loader
+version=1.0.0
+versionCode=1
+author=Github@HSR-Firefly
+description=在 post-fs-data / late_start 阶段用 insmod 加载指定的内核模块（.ko）。
